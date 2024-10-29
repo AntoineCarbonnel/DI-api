@@ -1,0 +1,25 @@
+# Fichiers et répertoires générés par Composer
+/vendor/
+/composer.lock
+
+# Répertoires de cache et de logs
+/var/cache/
+/var/log/
+/var/sessions/
+
+# Fichiers de configuration spécifiques à l'environnement
+.env.example
+.env.local
+
+# Fichiers de test
+/phpunit.xml
+/phpunit.xml.dist
+
+# Répertoires de build
+/build/
+/node_modules/
+
+# Fichiers générés par l'IDE
+/.idea/
+/.vscode/
+/nbproject/
