@@ -13,8 +13,8 @@ Bienvenue dans notre projet Symfony ! 🚀
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
-   cd votre-projet
+   git clone https://github.com/AntoineCarbonnel/DI-front.git
+   cd DI-front
    ```
 
 2. **Installer les dépendances avec Composer :**
