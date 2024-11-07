@@ -36,6 +36,13 @@ class Customer
         return $this->id;
     }
 
+    public function setId(int $int): static
+    {
+        $this->id = $int;
+
+        return $this;
+    }
+
     public function getTitle(): ?string
     {
         return $this->title;

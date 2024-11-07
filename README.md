@@ -54,3 +54,10 @@ Bienvenue dans notre projet Symfony ! 🚀
 ## Utilisation
 
 Une fois le serveur démarré, vous pouvez accéder à votre application à l'adresse suivante : [ http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+## Exécution des tests unitaires
+
+Pour exécuter les tests unitaires, utilisez la commande suivante :
+
+```bash
+php bin/phpunit
